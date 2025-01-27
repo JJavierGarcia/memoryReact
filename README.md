@@ -1,3 +1,5 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=JJavierGarcia_memoryReact&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=JJavierGarcia_memoryReact)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=JJavierGarcia_memoryReact&metric=coverage)](https://sonarcloud.io/summary/new_code?id=JJavierGarcia_memoryReact)
 # Getting Started with Create React App
 
 
