@@ -1,8 +1,8 @@
 import { render, screen } from '@testing-library/react';
 import Tablero from './Tablero';
 
-test('renders learn react link', () => {
+test('renders Tablero y comprueba que hay 8 cartas', () => {
   render(<Tablero />);
-  const linkElement = screen.getByText(/memory/i);
-  expect(linkElement).toBeInTheDocument();
+  const numeroCartas = screen.getByText(/8/i);
+  expect(numeroCartas).toBeInTheDocument();
 });
